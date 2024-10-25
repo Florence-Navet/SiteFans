@@ -173,11 +173,7 @@ img {
   border-color: rgb(17, 18, 18);
   justify-items: right;
   border-radius: 20px;
-}
-img .photos {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
+
 }
 li {
   text-align: start;
